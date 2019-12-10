@@ -1,0 +1,6 @@
+framework module s11 {
+  umbrella header "s11-umbrella.h"
+
+  export *
+  module * { export * }
+}

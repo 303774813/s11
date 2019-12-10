@@ -1,0 +1,16 @@
+PODS:
+  - s11 (0.1.0)
+
+DEPENDENCIES:
+  - s11 (from `../`)
+
+EXTERNAL SOURCES:
+  s11:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  s11: edc529359ba5e3f12e95e9cd9bc24e3a85a26b30
+
+PODFILE CHECKSUM: 6a1d472e512d86decffc50bfbd3ee8c0ded498f7
+
+COCOAPODS: 1.8.4
